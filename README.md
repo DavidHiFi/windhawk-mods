@@ -29,3 +29,15 @@ The mod's `version` metadata value must be changed to a newer version.
 The mod's `github` metadata value must match the pull request author's GitHub profile. This means that you can only submit an update for a mod that you originally submitted. If you'd like to update a mod that you didn't submit, you can either submit the changes to the mod author, or submit a new mod instead.
 
 The commit message should include information about the new version. The information will be shown in the mod's changelog.
+
+## Star history
+
+⭐ Thanks for the stars.
+
+<a href="https://www.star-history.com/?repos=DavidHiFi%2Fwindhawk-mods&amp;type=date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=DavidHiFi/windhawk-mods&amp;type=date&amp;theme=dark&amp;legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=DavidHiFi/windhawk-mods&amp;type=date" />
+    <img alt="DavidHiFi/windhawk-mods GitHub star history" src="https://api.star-history.com/chart?repos=DavidHiFi/windhawk-mods&amp;type=date" />
+  </picture>
+</a>
